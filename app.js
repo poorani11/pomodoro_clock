@@ -4,7 +4,7 @@ var bigTime = 1499; // time in seconds
 var mode = "normal";
 var animation = "fadeToBlack";
 
-var color = "0D5B85";
+var color = black;
 var percent;
 
 var mins;
@@ -124,4 +124,3 @@ function resetTimer() {
   stop.style.display = "none"; 
   reset.style.display = "none"; 
 }
-
